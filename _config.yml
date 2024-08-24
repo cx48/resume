@@ -48,8 +48,9 @@ github_username:  cx51
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Charanpreet Singh. I'm a Computer Science student graduating with a BTech degree in Computer Science. Passionate about cybersecurity and web apps, and keenly interested in working on a secure cloud environment. Eager to leverage academic knowledge and technical skills.
 
+  Hi, my name's Charanpreet Singh. I'm a Computer Science student graduating with a BTech degree in Computer Science. Passionate about cybersecurity and web apps, and keenly interested in working on a secure cloud environment. Eager to leverage academic knowledge and technical skills.
+  \n
   In my free time I write down blogs [here](https://blogs.charanpreet.dev). If you want to reach out to me, you can visit the link to my personal site at the top or [click here](https://charanpreet.dev). All my contact links will be a click away!
 
 content:
@@ -114,7 +115,7 @@ content:
   - title: Resume
     layout: text
     content: | # this will include new lines to allow paragraphs
-      #Charanpreet Singh
+      # Charanpreet Singh
 
       **Punjab, India**
 
