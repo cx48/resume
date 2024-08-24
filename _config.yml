@@ -48,10 +48,7 @@ github_username:  cx51
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Hi, my name's Charanpreet Singh. I'm a Computer Science student graduating with a BTech degree in Computer Science. Passionate about cybersecurity and web apps, and keenly interested in working on a secure cloud environment. Eager to leverage academic knowledge and technical skills.
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -114,20 +111,16 @@ content:
   - title: Charanpreet Singh
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Punjab, India
-      
-      ## Objective
+      **Punjab, India**
 
-      Motivated and detail-oriented Computer Science student graduating with a BTech degree in Computer Science. Passionate about web development, particularly in creating secure websites, and keenly interested in cyber security. Eager to leverage academic knowledge and technical skills.
+      # Education
 
-      ## Education
-
-      **Bachelor of Technology in Computer Science**
+      Bachelor of Technology in Computer Science
 
       - Expected Graduation: 2024
       - Current SGPA on 4.0 Scale - 3.2
 
-      **High School Graduation in CBSE**
+      High School Graduation in CBSE
 
       - Graduation Year: 12th (2019) & 10th (2017)
       - PCM Subjects 12th scores
@@ -135,14 +128,14 @@ content:
         - Physics - 74%
         - Chemistry 80%
 
-      ## Projects
+      # Projects
 
-      **Cyber Security Awareness Website**
+      Cyber Security Awareness Website
 
       - Led a project to create an website full of open source apps and raising awareness about cyber security threats.
-      - Implemented interactive features using JavaScript to engage users and provide practical tips for online safety.
+      - Implemented interactive features using JavaScript/React to engage users and provide practical tips for online safety.
 
-      ## Skills
+      # Skills
 
       - Proficient in HTML, CSS, and JavaScript
       - Familiarity with front-end frameworks such as Jekyll/Hugo
@@ -154,7 +147,7 @@ content:
       - Excellent communication and teamwork abilities
       - Self-motivated with a passion for continuous learning
 
-      ## Relevant Coursework
+      # Relevant Coursework
 
       - Introduction to Web Development
       - Cyber Security Fundamentals
@@ -177,7 +170,6 @@ content:
       - Proficient in Hindi (native)
       - English (IN)
 
-      > [!NOTE]
       > [Click here](https://www.charanpreet.dev/resume.pdf) to download PDF copy of this resume!
 
 # Footer
