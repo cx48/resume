@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Hi, my name's Charanpreet Singh. I'm a Computer Science student graduating with a BTech degree in Computer Science. Passionate about cybersecurity and web apps, and keenly interested in working on a secure cloud environment. Eager to leverage academic knowledge and technical skills.
 
-  In my free time I write down blogs [here](https://blogs.charanpreet.dev). My personal blog page is a fork of starter-blog from GitHub.
+  In my free time I write down blogs [here](https://blog.charanpreet.dev). My personal blog page is a fork of starter-blog from GitHub.
   
   If you want to reach out to me, you can visit the link to my personal site at the top or [click here](https://charanpreet.dev). All my contact links will be a click away!
   
@@ -123,7 +123,7 @@ content:
 
       &nbsp;
 
-      ## Education
+      ## **Education**
 
       Bachelor of Technology in Computer Science
 
@@ -140,7 +140,7 @@ content:
 
       &nbsp;
 
-      ## Projects
+      ## **Projects**
 
       Cyber Security Awareness Website
 
@@ -149,7 +149,7 @@ content:
 
       &nbsp;
 
-      ## Skills
+      ## **Skills**
 
       - Proficient in HTML, CSS, and JavaScript
       - Familiarity with front-end frameworks such as Jekyll/Hugo
@@ -163,7 +163,7 @@ content:
 
       &nbsp;
 
-      ## Relevant Coursework
+      ## **Relevant Coursework**
 
       - Introduction to Web Development
       - Cyber Security Fundamentals
@@ -183,7 +183,7 @@ content:
       
       &nbsp;
 
-      ## Languages
+      ## **Languages**
 
       - Proficient in Hindi (native)
       - English (IN)
