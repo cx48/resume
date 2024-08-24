@@ -121,9 +121,9 @@ content:
       # Charanpreet Singh
       Punjab, India
 
-      &nbsp; 
+      &nbsp;
 
-      # Education
+      ## Education
 
       Bachelor of Technology in Computer Science
 
@@ -140,7 +140,7 @@ content:
 
       &nbsp;
 
-      # Projects
+      ## Projects
 
       Cyber Security Awareness Website
 
@@ -149,7 +149,7 @@ content:
 
       &nbsp;
 
-      # Skills
+      ## Skills
 
       - Proficient in HTML, CSS, and JavaScript
       - Familiarity with front-end frameworks such as Jekyll/Hugo
@@ -163,7 +163,7 @@ content:
 
       &nbsp;
 
-      ##Relevant Coursework
+      ## Relevant Coursework
 
       - Introduction to Web Development
       - Cyber Security Fundamentals
@@ -183,7 +183,7 @@ content:
       
       &nbsp;
 
-      # Languages
+      ## Languages
 
       - Proficient in Hindi (native)
       - English (IN)
