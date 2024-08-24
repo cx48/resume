@@ -49,6 +49,9 @@ github_username:  cx51
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Charanpreet Singh. I'm a Computer Science student graduating with a BTech degree in Computer Science. Passionate about cybersecurity and web apps, and keenly interested in working on a secure cloud environment. Eager to leverage academic knowledge and technical skills.
+
+  In my free time I write down blogs [here](https://blogs.charanpreet.dev). If you want to reach out to me, you can visit the link to my personal site at the top or [click here](https://charanpreet.dev). All my contact links will be a click away!
+
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -112,6 +115,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       #Charanpreet Singh
+
       **Punjab, India**
 
       ## Education
@@ -159,7 +163,7 @@ content:
       - Introduction to Linux & RHEL, Fedora Distros Use In Enterprise
       - Setup QEMU/KVM for VM isolation on Linux, Hyper-V for Windows, Parallels/UTM on a Mac For Increased Security. Browser Containerization With Linux Bubblewrap.
       - Basics Of Podman & SELinux
-      - Windows GPO Policy Management Including Edge Enterprise Policy & Secure Windows Baseline (Learning For A Mac Enterprise Environment Lately)
+      - Windows GPO Policy Management Including Edge Enterprise Policy & Secure Windows Baseline
       - Setting Up A Secure Mobile Device With Basics Security Features (Locked Bootloader, Auditor to check OS integrity after first boot, No Play Services for reducing attack surface, secure DNS, disable webrtc and JIT in browser)
       - A walkthrough to High Threate CVEs In Recent Years Including APTs (CHNs) From MITTRE ATTACK.
       - Introduction To OWASP Top 10
