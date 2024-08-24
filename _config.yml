@@ -118,12 +118,12 @@ content:
   - title: Resume
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## Charanpreet Singh
+      # Charanpreet Singh
       Punjab, India
 
-      &nbsp;
+      &nbsp; 
 
-      ## Education
+      # Education
 
       Bachelor of Technology in Computer Science
 
@@ -139,15 +139,17 @@ content:
         - Chemistry 80%
 
       &nbsp;
-      
-      ## Projects
+
+      # Projects
 
       Cyber Security Awareness Website
 
       - Led a project to create an website full of open source apps and raising awareness about cyber security threats.
       - Implemented interactive features using JavaScript/React to engage users and provide practical tips for online safety.
 
-      ## Skills
+      &nbsp;
+
+      # Skills
 
       - Proficient in HTML, CSS, and JavaScript
       - Familiarity with front-end frameworks such as Jekyll/Hugo
@@ -159,7 +161,9 @@ content:
       - Excellent communication and teamwork abilities
       - Self-motivated with a passion for continuous learning
 
-      ## Relevant Coursework
+      &nbsp;
+
+      ##Relevant Coursework
 
       - Introduction to Web Development
       - Cyber Security Fundamentals
@@ -176,11 +180,15 @@ content:
       - Introduction To OWASP Top 10
       - Introduction To HTTPs/Socks Proxy For Increased Privacy
       - Basic Knowledge Of IDS/IPS For Threat Detection & Prevention
+      
+      &nbsp;
 
-      ## Languages
+      # Languages
 
       - Proficient in Hindi (native)
       - English (IN)
+
+      &nbsp;
 
       > [Click here](https://www.charanpreet.dev/resume.pdf) to download PDF copy of this resume!
 
