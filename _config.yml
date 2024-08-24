@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   In my free time I write down blogs [here](https://blogs.charanpreet.dev). My personal blog page is a fork of starter-blog from GitHub.
   
-  If you want to reach out to me, you can visit the link to my personal site at the top or [click here](https://charanpreet.dev. All my contact links will be a click away!
+  If you want to reach out to me, you can visit the link to my personal site at the top or [click here](https://charanpreet.dev). All my contact links will be a click away!
   
 
 content:
@@ -118,9 +118,10 @@ content:
   - title: Resume
     layout: text
     content: | # this will include new lines to allow paragraphs
-      # Charanpreet Singh
+      ## Charanpreet Singh
+      Punjab, India
 
-      **Punjab, India**
+      &nbsp;
 
       ## Education
 
@@ -137,6 +138,8 @@ content:
         - Physics - 74%
         - Chemistry 80%
 
+      &nbsp;
+      
       ## Projects
 
       Cyber Security Awareness Website
