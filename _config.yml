@@ -1,5 +1,5 @@
 # Site
-repository: cx51/resume
+repository: cx48/resume
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -16,7 +16,7 @@ darkmode: true
 
 # Social links
 # twitter_username: facespics
-github_username:  cx51
+github_username:  cx48
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -190,7 +190,7 @@ content:
 
       &nbsp;
 
-      > [Click here](https://www.charanpreet.dev/resume.pdf) to download PDF copy of this resume!
+      > <a href="https://www.charanpreet.dev/resume.pdf">Click here</a> to download PDF copy of this resume!
 
 # Footer
 footer_show_references: false
